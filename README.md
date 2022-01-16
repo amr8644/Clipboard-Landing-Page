@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- GitHub : [SourceCode](https://github.com/amr8644/Clipboard-Landing-Page-)
+- GitHub : [SourceCode](https://github.com/amr8644/Clipboard-Landing-Page)
 - Live Site URL: [Live](https://optimistic-lovelace-ea9a29.netlify.app/)
 
 ## My process
